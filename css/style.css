@@ -305,13 +305,9 @@ body{
 .the-world{
     display: flex;
     margin-top: auto;
- 
-    
 }
 .world-article-background{
-   
     background: #F6F6F6;
-    
     width: 797px;
     border-radius: 15px;
     margin-bottom: 8px;
@@ -319,7 +315,6 @@ body{
 .world-article{
     display: flex;
     padding: 20px;
-   
 }
 
 .world-article-content{
@@ -341,8 +336,6 @@ body{
 .world-article-title:active{
     opacity: 0.6;
 }
-
-
 
 .world-article-icon{
     display: flex;
@@ -371,7 +364,6 @@ body{
     background: #F6F6F6;
     border-radius: 15px;
     margin-bottom: 10px;
-
 }
 .action-content{
     padding: 20px 20px 25px 17px ;
@@ -390,7 +382,6 @@ body{
     margin: 0;
     padding: 0;
     list-style: none;
-   
 }
 .action-item:not(:last-child){
     border-bottom: 1px solid #D2D2D2;
@@ -433,8 +424,6 @@ body{
     font-weight: 500;
     line-height: 18px;
     color: #000;
-
-
 }
 .main-link:hover{
     opacity: 0.8;
@@ -501,8 +490,6 @@ body{
     font-size: 16px; 
     color: #fff;
 }
-  
-
 .site-footer-icon{
     display: flex;
     align-items: center;
@@ -516,11 +503,9 @@ body{
 .site-footer-link2{
     display: flex;
     list-style: none;
-
 }
 
 .site-footer-item2:not(:last-child){
     padding-right: 35px;
-
 }
 
